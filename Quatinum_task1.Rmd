@@ -1,0 +1,12 @@
+---
+title: "Quantium_project"
+output: html_document
+---
+
+
+
+```{r}
+pbdata <- read.csv("QVI_purchase_behaviour")
+tdata <-read.csv("QVI_transaction_data")
+```
+
